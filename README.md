@@ -1,4 +1,4 @@
-# Sistema de Gestión de Servicios de Salud - Backend
+# Salud Contigo - Backend
 
 Este proyecto de backend está desarrollado en Java utilizando Spring Boot. Proporciona las APIs REST necesarias para la gestión de citas médicas, pacientes, historias clínicas y exámenes médicos. Incluye autenticación, autorización y manejo de datos en una base de datos relacional.
 
